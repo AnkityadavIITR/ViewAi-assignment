@@ -14,7 +14,7 @@
    cd your-project
 3. Install dependencies   
    ```bash
-   cd your-project
+   npm install || npm i
 4. Available Scripts
    START SERVER
    ```bash
