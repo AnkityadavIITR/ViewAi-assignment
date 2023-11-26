@@ -20,6 +20,7 @@
    ```bash
    npm run dev
 Project Structure
+```bash
 src/                    # Source code
 |-- pages/             # Page
 |-- App.JSX            # Main React component
